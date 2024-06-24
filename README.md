@@ -4,7 +4,7 @@
 
 ## 🙋‍♂️ About Me
 
-Hey! I'm Akarsh. I'm a Computer Science student at Jaypee Institute of Information Technology, Noida, and about to start my 7th semester. 🌱 I'm passionate about **Game Development** and **Data Science**.
+Hey! I'm Akarsh. I'm a B.Tech Computer Science Engineering student at Jaypee Institute of Information Technology, Noida, and about to start my 7th semester. 🌱 I'm passionate about **Game Development** and **Data Science**.
 
 - 🌍 From Noida, India; grew up in Oman 🌟
 - 🏫 Studied at Indian School Sohar, Oman
