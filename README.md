@@ -25,17 +25,6 @@ Hey! I'm Akarsh. I'm a B.Tech Computer Science Engineering student at Jaypee Ins
 
 ---
 
-## 📈 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AkarshGuptaa&show_icons=true&theme=radical" alt="Akarsh's GitHub Stats" />
-  <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AkarshGuptaa&theme=radical" alt="Akarsh's GitHub Streak" />
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AkarshGuptaa&layout=compact&theme=radical" alt="Akarsh's Top Languages" />
-</div>
-
----
 
 ## 📫 How to Reach Me
 
