@@ -31,6 +31,8 @@ Hey! I'm Akarsh. I'm a B.Tech Computer Science Engineering student at Jaypee Ins
   <img src="https://leetcard.jacoblin.cool/Akarx?ext=heatmap" alt="LeetCode Stats" />
 </div>
 
+I know its not amazing, I just started it 😅
+
 ---
 
 ## 📫 How to Reach Me
