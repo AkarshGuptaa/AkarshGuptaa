@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Akarsh Gupta 👋</h1>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=AkarshGupta-20&color=brightgreen" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=AkarshGuptaa&color=brightgreen" alt="Profile views" />
 </p>
 
 ---
@@ -31,11 +31,11 @@ Hey! I'm Akarsh (you can call me Aakersh). I'm a Computer Science student at Jay
 ## 📈 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AkarshGupta-20&show_icons=true&theme=radical" alt="Akarsh's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AkarshGuptaa&show_icons=true&theme=radical" alt="Akarsh's GitHub Stats" />
   <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AkarshGupta-20&theme=radical" alt="Akarsh's GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AkarshGuptaa&theme=radical" alt="Akarsh's GitHub Streak" />
   <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AkarshGupta-20&layout=compact&theme=radical" alt="Akarsh's Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AkarshGuptaa&layout=compact&theme=radical" alt="Akarsh's Top Languages" />
 </div>
 
 ---
@@ -52,9 +52,9 @@ Hey! I'm Akarsh (you can call me Aakersh). I'm a Computer Science student at Jay
 
 ## 📫 How to Reach Me
 
-- **Email:** [gupta.akarsh99@gmail.com](mailto:gupta.akarsh99@gmail.com)
-- **LinkedIn:** [Akarsh Gupta](https://www.linkedin.com/in/akarsh-gupta/)
-- **Twitter:** [@AkarshGupta_20](https://twitter.com/AkarshGupta_20)
+- **Email:** [akarshguptaaa@gmail.com](mailto:akarshguptaaa@gmail.com)
+- **LinkedIn:** [Akarsh Gupta](https://www.linkedin.com/in/akarsh-gupta-8293301ba/)
+- **Twitter:** [@AkarshG03](https://x.com/AkarshG03)
 
 ---
 
@@ -68,16 +68,16 @@ Hey! I'm Akarsh (you can call me Aakersh). I'm a Computer Science student at Jay
 
 ## 💻 Projects
 
-### [Project Name](https://github.com/AkarshGupta-20/ProjectName)
+### [Project Name](https://github.com/AkarshGuptaa/ProjectName)
 - A brief description of what the project does.
 - Technologies used: React, Node.js, etc.
 
-### [Another Project](https://github.com/AkarshGupta-20/AnotherProject)
+### [Another Project](https://github.com/AkarshGuptaa/AnotherProject)
 - A brief description of what the project does.
 - Technologies used: C++, Unreal Engine, etc.
 
-Feel free to check out more on my [GitHub](https://github.com/AkarshGupta-20?tab=repositories)!
+Feel free to check out more on my [GitHub](https://github.com/AkarshGuptaa?tab=repositories)!
 
 ---
 
-⭐️ From [Akarsh Gupta](https://github.com/AkarshGupta-20)
+⭐️ From [Akarsh Gupta](https://github.com/AkarshGuptaa)
