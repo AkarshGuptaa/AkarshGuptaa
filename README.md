@@ -4,11 +4,11 @@
 
 ## 🙋‍♂️ About Me
 
-Hey! I'm Akarsh (you can call me Aakersh). I'm a Computer Science student at Jaypee Institute of Information Technology, Noida, and currently in my 6th semester. 🌱 I'm passionate about **game development** and will be diving into Unreal Engine soon.
+Hey! I'm Akarsh. I'm a Computer Science student at Jaypee Institute of Information Technology, Noida, and about to start my 7th semester. 🌱 I'm passionate about **Game Development** and **Data Science**.
 
 - 🌍 From Noida, India; grew up in Oman 🌟
 - 🏫 Studied at Indian School Sohar, Oman
-- 🖥️ Currently an IT intern at Oman Aluminum Processing Industries SPC (OAPIL), Oman
+- 🖥️ Currently an IT&SDE intern at Oman Aluminum Processing Industries SPC (OAPIL), Oman
 - 🎮 Aspiring Game Developer
 - 🌸 K-Pop & Anime enthusiast
 
