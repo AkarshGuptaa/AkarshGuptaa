@@ -1,8 +1,3 @@
-<h1 align="center">Hi there, I'm Akarsh Gupta 👋</h1>
-
----
-
-
 # 💫 About Me:
 🌍 From Noida, India; grew up in Oman<br>🎓 Jaypee Institute of Information Technology<br>🏫 Indian School Sohar<br>🖥️ Ex intern at OAPIL, Oman<br>🎮 Aspiring Game Developer<br>🌸 K-Pop & Anime enthusiast<br>🎤 Singer/Dancer
 
